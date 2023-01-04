@@ -1,16 +1,9 @@
 # *Test_Repo*
-## what it iss 
-*here i'm going to use '>' to add some grey bar to the left of the below statement*
-> "... to boldy go where no one has gone before."
+> "now, we are going to clean things up!" 
+![an image of three blocks, 'blockchain', with their specified hashes and prev. hashes](What-Is-Blockchain-Infographic.jpeg)
 ---
-### *Test_Repo*
-**my first 'repo'. you see, i put colons around 'repo' to higghlight it-- isn't that neat! . A testing repo just to figure it out-- 'welcome in'. in bold**
----
-a 'print' function in python does this:
-'''python
-text = 'this is a setnence that you would like to display'
-print(text)
-'''
-
-
+## Blochome
+[Programs](code)
+[Data Files](https://github.com/najibabounasr/Module_1_Project.git)
+[Reference](https://www.blochome.net/)
 
